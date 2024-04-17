@@ -25,7 +25,7 @@ The dashboard is built on a star schema consisting of six data tables:
 - **Data Cleansing Methods:** Applied data cleansing methods using Power Query to optimize the dataset for analysis and visualization.
 
 ### Dashboard Snapshots
-![Atlas Labs Power BI Dashboard Snapshot](Atlas Snapshot.png)
+![Atlas Labs Power BI Dashboard Snapshot](AtlasSnapshot.png)
 ![Atlas Labs Power BI Dashboard Snapshot2](Atlas2.png)
 ![Atlas Labs Power BI Dashboard Snapshot2](atlaslaps.png)
 
