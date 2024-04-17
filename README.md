@@ -25,13 +25,15 @@ The dashboard is built on a star schema consisting of six data tables:
 - **Data Cleansing Methods:** Applied data cleansing methods using Power Query to optimize the dataset for analysis and visualization.
 
 ### Dashboard Snapshots
-![Atlas Labs Power BI Dashboard Snapshot](AtlasSnapshot1.png)
-![Atlas Labs Power BI Dashboard Snapshot2](AtlasSnapshot2.png)
+![Atlas Labs Power BI Dashboard Snapshot](Atlas Snapshot.png)
+![Atlas Labs Power BI Dashboard Snapshot2](Atlas2.png)
+![Atlas Labs Power BI Dashboard Snapshot2](atlaslaps.png)
+
 *Caption: Snapshot of the Atlas Labs Power BI Dashboard showcasing demographic overview, attrition analysis, and performance tracking.*
 
 ### Usage Instructions
 1. **Accessing the Dashboard:**
-   - Click on the [Link] to access the Atlas Labs Power BI Dashboard.
+   - Click on the (https://app.powerbi.com/groups/me/reports/42ad3470-6b97-4d6a-8df1-5e9cbd292599?ctid=6bf95165-4113-4188-9b7b-cb6c0c198a5b&pbi_source=linkShare&bookmarkGuid=38b6d412-a277-4a32-aaf6-97298c87b1cb) to access the Atlas Labs Power BI Dashboard.
 
 2. **Navigating the Dashboard:**
    - Explore different pages to view demographic insights, attrition analysis, and performance tracking.
